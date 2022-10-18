@@ -68,6 +68,6 @@ When the model meets all the requirements of the customer, our data science proj
 
 ---
 
-To learn more, you can visit my [GitHub Page](https://github.com/VictorFantucci) where you can find a real use case example and more.
+To learn more, you can visit my [GitHub Page](https://github.com/VictorFantucci) where you can find real use cases examples and more.
 
 Source: [IBM Data Science Methodology from Cognitive Class](https://cognitiveclass.ai/courses/data-science-methodology-2)
